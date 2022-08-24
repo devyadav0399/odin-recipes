@@ -1,3 +1,3 @@
-#Odin Recipes
+# Odin Recipes
 
 First Odin Project
